@@ -1,0 +1,17 @@
+# requirements.txt
+streamlit
+langchain
+langchain-openai
+langchain-mcp-adapters
+langgraph
+langgraph_supervisor
+plotly
+pandas
+python-dotenv
+
+# For development
+black
+flake8
+pytest
+
+#pip install -r requirements.txt
